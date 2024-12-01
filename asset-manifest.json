@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/yashjain12/Assignment6/static/js/main.01af0630.js",
-    "index.html": "/yashjain12/Assignment6/index.html",
-    "main.01af0630.js.map": "/yashjain12/Assignment6/static/js/main.01af0630.js.map"
+    "main.js": "/Assignment6/static/js/main.01af0630.js",
+    "index.html": "/Assignment6/index.html",
+    "main.01af0630.js.map": "/Assignment6/static/js/main.01af0630.js.map"
   },
   "entrypoints": [
     "static/js/main.01af0630.js"
